@@ -4,7 +4,7 @@ Welcome! This repository showcases a selection of my personal and technical proj
 
 - Wprkflows automation
 - SQL scripting and data processing
-- IDM Reports
+- .NET Reports
 - Machine learning
 - MATLAB simulations
 
@@ -13,19 +13,16 @@ Welcome! This repository showcases a selection of my personal and technical proj
 ## 📁 Folder Overview
 
 ### 🛠️ PLM-Tools
-Scripts and automation for Optiva PLM and JD Edwards ERP using VB.NET and XML.
+Scripts and automation for Optiva PLM using VB.NET, SQL and XML.
 
 ### 🔧 SQL-Scripts
-Optimized SQL scripts used in real-life scenarios for reporting and data transformation.
+Optimized SQL scripts used in real-life scenarios for reporting, data transformation and Workflows Automation.
 
 ### 📊 IDM Reports
 Dashboards and data visualizations developed for business intelligence.
 
-### 🧠 ML-Projects
-Experiments and projects with clustering and pattern recognition (WEKA and Python).
-
 ### 🧪 MATLAB-Simulations
-Simulations in wireless and optical communications for academic research.
+Simulations in machine learning, wireless and optical communications for academic researches.
 
 ---
 
