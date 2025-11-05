@@ -1,4 +1,4 @@
-# 💼 Developer Portfolio – Reza Raeesosadati
+# 💼 Developer Portfolio – Reza Raees
 
 Welcome! This repository showcases a selection of my personal and technical projects related to:
 
